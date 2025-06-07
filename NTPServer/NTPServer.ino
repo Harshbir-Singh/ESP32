@@ -41,7 +41,7 @@ void setup() {
 
   sntp_set_time_sync_notification_cb(timeavailable);
 
-  // Set timezone and NTP servers
+
   configTzTime(time_zone, ntpServer1, ntpServer2);
 }
 
