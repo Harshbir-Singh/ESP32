@@ -3,7 +3,8 @@ Sofware Used: Arduino IDE
 
 Mini-Projects using ESP32:
 
--DHT11 Web Server
+-DHT11 Web Server: Displays humidity and temperature levels of the room on a webpage
+-NTPServer: Displays Day,Date,Month,Year and Time in the serial monitor of Arduino IDE
 
 
 
